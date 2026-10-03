@@ -1,0 +1,12 @@
+{
+  "name": "droneaid-web",
+  "private": true,
+  "type": "module",
+  "description": "droneaid.pl — static multilingual site. Sources live in src/, the deployed output in project-root/.",
+  "scripts": {
+    "build": "node scripts/build.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

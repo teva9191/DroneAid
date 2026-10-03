@@ -1,0 +1,155 @@
+{
+  "meta": {
+    "title": "Warsztaty FPV budowy dronów w Warszawie | DroneAid Collective",
+    "description": "Warszawski kolektyw budujący drony FPV dla misji humanitarnych na Ukrainie. Dołącz do warsztatów, zostań mentorem lub przekaż komponenty. 100% środków na sprzęt.",
+    "og_title": "DroneAid Collective – Warszawa",
+    "og_description": "Warszawski kolektyw buduje drony FPV dla misji humanitarnych na Ukrainie. Dołącz do warsztatów, przekaż komponenty lub zostań mentorem.",
+    "org_description": "Warszawski kolektyw budujący drony FPV dla misji humanitarnych na Ukrainie.",
+    "ld_event1_name": "Warsztaty budowy dronów 10″ na EDTH Warszawa",
+    "ld_event2_name": "Warsztaty budowy dronów 13″ z zespołem z Krakowa",
+    "ld_event3_name": "Wykład-warsztaty dotyczące dronów 10″ na Uniwersytecie Vistula"
+  },
+
+  "nav-mission": "Jak To Działa",
+  "nav-components": "Struktura",
+  "nav-why": "Nasza Misja",
+  "nav-events": "Wydarzenia",
+  "nav-join": "Dołączyć",
+
+  "hero_eyebrow": "Warszawa · Polska · DroneAid Collective",
+  "hero_title": "Technologia stworzona<br>z myślą o <em>wolności</em>",
+  "hero_sub": "Spotykamy się w Warszawie, aby wspólnie budować drony FPV od podstaw, ucząc się podstaw elektroniki, lutowania i obsługi systemów lotniczych. Każdy zmontowany przez nas dron przekazujemy na potrzeby akcji humanitarnych na Ukrainie",
+  "btn_donate": "Przekaż Komponent",
+  "btn_mission": "Zobacz, Jak To Działa",
+
+  "stat_people": "Osoby Przeszkolone",
+  "stat_drones": "Zbudowane Drony",
+  "stat_workshops": "Zorganizowane Warsztaty",
+  "stat_mentors": "Aktywni mentorzy",
+
+  "mission_subtitle": "Jak to działa",
+  "mission_title": "Od stołu warsztatowego<br><em>aż po pole walki</em>",
+  "mission_card_one": "01 / SOURCE",
+  "mission_card_one_title": "Source Components",
+  "mission_card_one_txt": "100% przekazanych środków trafia bezpośrednio na zakup silników, ram, kontrolerów lotu, akumulatorów i kamer.",
+  "mission_card_two": "02 / BUDOWA",
+  "mission_card_two_title": "Dzień Warsztatowy",
+  "mission_card_two_txt": "Żadne doświadczenie nie jest wymagane. Uczestnicy uczą się podstaw elektroniki, bezpiecznych technik lutowania oraz kompletnego montażu dronów pod okiem inżynierów-mentorów.",
+  "mission_card_three": "03 / DOSTAWA",
+  "mission_card_three_title": "Dostawa na Ukrainę",
+  "mission_card_three_txt": "Gotowe i przetestowane drony są przekazywane partnerskim organizacjom humanitarnym do wykorzystania w misjach logistycznych, wykrywania min oraz wsparcia ewakuacyjnego.",
+
+  "support_subtitle": "Wesprzyj Budowę",
+  "support_title": "Każda część<br><em>ma znaczenie</em>",
+  "support_txt": "Dofinansuj pojedynczy element lub sfinansuj cały dron. Każdy wkład trafia bezpośrednio do kolejnej partii warsztatowej.",
+
+  "tools": "Narzędzia & Lutowanie",
+  "tools_txt": "Lutownice, topnik, ściągacze izolacji, multimetry. <br> Niezbędne wyposażenie warsztatu wykorzystywane przy każdej konstrukcji.",
+  "tools_btn": "Osnowa Warsztatu",
+
+  "frame": "Rama & Kadłub",
+  "frame_txt": "Konstrukcyjny szkielet. Lekkie ramy z włókna węglowego, które wytrzymują twarde lądowania w warunkach terenowych.",
+  "frame_btn": "Struktura",
+
+  "motors": "Silniki & śmigła",
+  "motors_txt": "Silniki bezszczotkowe i śmigła — układ napędowy, który decyduje o prędkości, sile nośnej i wydajności każdego modelu.",
+  "motors_btn": "Napęd",
+
+  "camera": "Kamera & FPV",
+  "camera_txt": "Kamery FPV i nadajniki wideo. Oczy misji — umożliwiające operatorowi obserwację sytuacji z powietrza w czasie rzeczywistym.",
+  "camera_btn": "Sterovanie",
+
+  "battery": "Akumulatory",
+  "battery_txt": "Zestawy akumulatorów LiPo o gęstości energii i szybkości rozładowania niezbędnych do stabilnych, długotrwałych operacji lotniczych.",
+  "battery_btn": "Źródło Zasilania",
+
+  "controller": "Kontroler Lotu",
+  "controller_txt": "Mózg — płytka drukowana z oprogramowaniem Betaflight, przetwarzająca dane z czujników i zapewniająca stabilizację z częstotliwością tysięcy cykli na sekundę.",
+  "controller_btn": "Inteligencja",
+
+  "why_subtitle": "Nasza misja",
+  "why_title": "Dlaczego Warszawa<br>buduje drony",
+  "why_txt1": "Drony stały się kluczowym elementem infrastruktury na Ukrainie — wykorzystuje się je do dostarczania środków medycznych, monitorowania sytuacji oraz operacji rozminowywania na rozległych obszarach zniszczonego terenu.",
+  "why_txt2": "Warszawa znajduje się 400 km od granicy z Ukrainą. Produkcja tutaj oznacza krótsze łańcuchy dostaw, więzi ze społecznością lokalną, która rozumie stawkę, oraz zaplecze techniczne w samym sercu Europy. DroneAid Warsaw to nie tylko warsztaty — to węzeł w sieci solidarności.",
+  "why_txt3": "Każdy uczestnik, który nauczy się lutować połączenia lub konfigurować kontroler lotu, staje się częścią tej sieci. Umiejętności pozostają, a drony wykonują swoją misję.",
+  "why_dist": "km do Ukrainy",
+
+  "events_subtitle": "Harmonogram warsztatów",
+  "events_title": "Nadchodzące<br><em>wydarzenia</em>",
+
+  "event1_date": "05 GRU<br>2025",
+  "event1_title": "Warsztaty budowy dronów 10″ na EDTH Warszawa",
+  "event1_place": "Warszawa, Polska · 14:00–17:00",
+  "event1_tag": "Rejestracja zakończona",
+
+  "event2_date": "04 KWI<br>2026",
+  "event2_title": "Warsztaty budowy dronów 13″ z zespołem z Krakowa",
+  "event2_place": "Kraków, Polska · 09:00–18:00",
+  "event2_tag": "Rejestracja zakończona",
+
+  "event3_date": "27 KWI<br>2026",
+  "event3_title": "Warsztaty budowy dronów 10″ – Program Równych Praw",
+  "event3_place": "Olsztyn · 10:00–19:00",
+  "event3_tag": "Rejestracja zakończona",
+
+  "event4_date": "28 KWI<br>2026",
+  "event4_title": "Wykład-warsztaty dotyczące dronów 10″",
+  "event4_place": "Uniwersytet Vistula · 16:00–21:00",
+  "event4_tag": "Rejestracja zakończona",
+
+  "event5_date": "19 CZE<br>2026",
+  "event5_title": "Wkrótce pojawią się kolejne wydarzenia",
+  "event5_place": "Śledź nas, aby być na bieżąco z najnowszymi wydarzeniami",
+  "event5_tag": "Zarezerwuj miejsce",
+
+  "join_subtitle": "Zaangażuj się",
+  "join_title": "Trzy sposoby<br><em>na wsparcie</em>",
+  "join_workshop": "Buduj z nami",
+  "join_workshop_txt": "Nie jest wymagane wcześniejsze doświadczenie. Weź udział w warsztatach, naucz się lutować, poznaj budowę techniczną i wyjdź z warsztatów z gotowym dronem FPV. Zarejestruj się, korzystając z linku poniżej.",
+
+  "join_mentor": "Zostań Mentorem",
+  "join_mentor_txt": "Znasz się na elektronice, lutowaniu lub uważasz, że Twoje inne doświadczenie może pomóc w realizacji projektu? Dołącz do zespołu mentorów — pomagaj uczestnikom, przeprowadzaj końcowe kontrole jakości gotowych konstrukcji i wspieraj rozwój projektu.",
+
+  "join_donate": "Sponsorowanie projektu",
+  "join_donate_txt": "Sfinansuj jeden element, narzędzia lub całego drona. Osoby, które sfinansują całego drona, otrzymują priorytetowy dostęp do warsztatów. Każdy grosz trafia bezpośrednio na sprzęt — bez żadnych kosztów ogólnych.",
+
+  "donate_subtitle": "Sfinansuj misję",
+  "donate_title": "Jeden dron<br><em>Realny wpływ</em>",
+  "donate_txt1": "Sfinansowanie całego drona to jedno miejsce na warsztatach, jedna szansa, by własnymi rękami zabezpieczyć swoją przyszłość. Po montażu nasz zespół zajmie się całą logistyką niezbędną do dostarczenia drona na linię frontu.",
+  "donate_txt2": "Twój wkład w 100% trafia na sprzęt. Bez opłat administracyjnych, bez kosztów ogólnych.",
+
+  "donate_motor": "Rama + silniki → dron może latać autonomicznie przez 30 minut",
+  "donate_camera": "Kamera FPV → operator może bezpiecznie nawigować po trasie",
+  "donate_full": "Kompletny dron → dostarczony do jednostki humanitarnej na froncie w ciągu 3 tygodni",
+
+  "choose_amount": "Wybierz swoją kwotę",
+  "secure_payment": "Bezpieczne · Przejrzyste",
+
+  "essentials": "Podstawowe Elementy",
+  "essentials_txt": "Przewody, Złącza, Śruby",
+  "component": "Pojedynczy Komponent",
+  "component_txt": "Kamera, Silnik, Śmigła",
+  "stack": "Zestaw Elektroniczny",
+  "stack_txt": "FC, ESC, VTX, receiver",
+  "full_drone": "Kompletny Dron",
+  "full_drone_txt": "Sfinansuj całą konstrukcję + zdobądź miejsce na warsztatach",
+  "own_amount": "Własna kwota",
+  "own_amount_txt": "Dowolna kwota",
+
+  "one_time": "/ jednorazowo",
+
+  "donate_goal_txt": "Cel budowy w tym miesiącu",
+  "donate_btn": "Dofinansuj",
+  "donate_note": "100% środków idzie na komponenty dronów · Wszyscy są wolontariuszami, bez kosztów ogólnych",
+
+  "cta_subtitle": "Warszawa · DroneAid Collective",
+  "cta_txt": "Gotowy, aby <br>zbudować coś, co ma znaczenie?",
+  "cta_join": "Dołącz do następnych warsztatów lub przekaż darowiznę na komponent już dziś",
+  "cta_events": "Zobacz nadchodzące wydarzenia",
+  "form_name": "Twoje imię i nazwisko",
+  "form_email": "Twój adres e-mail",
+  "form_message": "Wiadomość",
+  "form_send": "Wyślij wiadomość",
+  "form_success": "Wiadomość została wysłana! Skontaktujemy się z Tobą wkrótce.",
+  "form_error": "Wystąpił błąd. Spróbuj ponownie."
+}
